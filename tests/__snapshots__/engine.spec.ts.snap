@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Engine invalid syntax should throw LexerError 1`] = `"Tokenization error"`;
+
+exports[`Engine invalid syntax should throw ParsingError 1`] = `"Tokenization error"`;
